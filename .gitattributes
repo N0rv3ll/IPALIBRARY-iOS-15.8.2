@@ -1,0 +1,2 @@
+git lfs track "*.ipa"
+git lfs track "*.tipa"
